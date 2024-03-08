@@ -1,0 +1,33 @@
+﻿  main.cpp
+D:\Coding\cpp\sot\SoT-Inspector\UE4 Scanner\utils.h(24,74): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Coding\cpp\sot\SoT-Inspector\UE4 Scanner\utils.h(70,70): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Coding\cpp\sot\SoT-Inspector\UE4 Scanner\utils.h(87,70): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Coding\cpp\sot\SoT-Inspector\UE4 Scanner\utils.h(120,74): warning C4311: '<function-style-cast>': pointer truncation from 'HMODULE' to 'long'
+  (compiling source file 'main.cpp')
+  
+D:\Coding\cpp\sot\SoT-Inspector\UE4 Scanner\utils.h(120,74): warning C4302: '<function-style-cast>': truncation from 'HMODULE' to 'long'
+  (compiling source file 'main.cpp')
+  
+D:\Coding\cpp\sot\SoT-Inspector\UE4 Scanner\utils.h(120,69): warning C4312: '<function-style-cast>': conversion from 'long' to 'PIMAGE_NT_HEADERS' of greater size
+  (compiling source file 'main.cpp')
+  
+D:\Coding\cpp\sot\SoT-Inspector\UE4 Scanner\ue4.h(113,111): warning C4552: '!=': result of expression not used
+  (compiling source file 'main.cpp')
+  
+D:\Coding\cpp\sot\SoT-Inspector\UE4 Scanner\main.cpp(493,25): warning C4267: 'initializing': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Coding\cpp\sot\SoT-Inspector\UE4 Scanner\main.cpp(634,32): warning C4244: 'argument': conversion from 'ULONG_PTR' to 'int', possible loss of data
+D:\Coding\cpp\sot\SoT-Inspector\UE4 Scanner\main.cpp(646,26): warning C4018: '>': signed/unsigned mismatch
+D:\Coding\cpp\sot\SoT-Inspector\UE4 Scanner\main.cpp(659,41): warning C4018: '<': signed/unsigned mismatch
+D:\Coding\cpp\sot\SoT-Inspector\UE4 Scanner\main.cpp(730,48): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Not all modules are compiled with -Gy (function comdat), build without incremental LTCG.
+D:\Coding\cpp\sot\SoT-Inspector\UE4 Scanner\utils.h(27): warning C4715: 'MEMORY::Process': not all control paths return a value
+  Finished generating code
+  UE4 Scanner.vcxproj -> D:\Coding\cpp\sot\SoT-Inspector\x64\Release\UE4 Scanner.exe
